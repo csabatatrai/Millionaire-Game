@@ -1,0 +1,4 @@
+helyezés	játékosnév		nyeremény		játékidő
+	1		Játékos 	      10000	          50s
+	2		Játékos 	      10000	          40s
+	3		Játékos 	       5000	          41s
