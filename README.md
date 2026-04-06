@@ -9,7 +9,8 @@ Ez a projekt a népszerű "Legyen Ön is milliomos!" televíziós vetélkedő te
   * 📞 **Telefonos segítség**: Minél könnyebb a kérdés, annál biztosabb és pontosabb tippet ad a "vonal végén" lévő barát.
   * 👥 **Közönség**: Kiszámolja és sávokba (grafikon-szerűen) rendezi a közönség szavazatait a nehézségtől függően.
   * ✂️ **Felezések**: Véletlenszerűen eltávolít két rossz válaszlehetőséget, csak a helyeset és egy hibásat hagyva bent.
-  * 🧔 **Kvízmester (Extra)**: Speciális játékon belüli "csalás" vagy interakció. A kvízmesterrel érmét lehet feldobni a válaszért, de rejtett Easter Egg-eket és Cheat kódokat (`hesoyam`) is tartalmaz a szemfüleseknek!
+  * 🧔 **Kvízmester (Extra)**: Speciális játékon belüli "csalás" vagy interakció. A kvízmesterrel érmét lehet feldobni a válaszért.
+    
 * **Toplista**: A rendszer a `toplista.txt` fájlban rögzíti és a nyeremény (valamint a játékidő) alapján rangsorolja a játékosokat.
 * **Színes terminál output**: Az olvashatóságot és az élményt a színes konzolos szövegek teszik teljessé (zöld a jó válasz, piros a rossz stb.).
 
